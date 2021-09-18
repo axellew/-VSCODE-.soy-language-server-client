@@ -257,7 +257,7 @@
 		},
 		"html": {
 			"name": "support.function",
-			"begin": "</?(\\w+|)",
+			"begin": "</?\\w+",
 			"end": "/?>",
 			"beginCaptures": {
 				"0": {
